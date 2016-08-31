@@ -1,5 +1,4 @@
 {
 	"host": "http://localhost:3000",
 	"dbURI" : "mongodb://chatcatuser:chatcatpassword@ds019936.mlab.com:19936/mychatcatdb-dg"
-
 }
